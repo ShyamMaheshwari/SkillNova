@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: yourusername/thiser-journal
+  repo: ShyamMaheshwari/SkillNova
   branch: main
 
 media_folder: "assets/uploads"
